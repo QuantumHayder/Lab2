@@ -1,0 +1,5 @@
+gymnasium
+PyGame
+Numpy
+rlnotes
+moviepy>=2.1,<3
